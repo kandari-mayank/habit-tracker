@@ -32,33 +32,6 @@ The app allows users to create habits, track daily/weekly progress, view statist
 
 ---
 
-## 📂 Project Structure
-
-habit-tracker/
-├── backend/
-│ ├── app.js
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ ├── config/
-│ ├── api-tests/
-│ │ ├── screenshots.md
-│ │ └── screenshots/
-│ └── .env.example
-│
-├── frontend/
-│ ├── pubspec.yaml
-│ └── lib/
-│ ├── screens/
-│ ├── services/
-│ └── models/
-│
-└── README.md
-
-
-
----
-
 ## 🔐 Authentication Design (Important Note)
 
 This project **intentionally does NOT use JWT or sessions**, as required by the assignment.
